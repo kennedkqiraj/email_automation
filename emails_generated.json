@@ -1,0 +1,2252 @@
+[
+    {
+        "id": 16,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_16>",
+        "sender_email_address": "<EMAIL_16>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hello, I'm having trouble accessing your website from my browser. Could you help me resolve this? Regards, <FIRST_NAME_16>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_16>, We're sorry for the inconvenience. Our team is already investigating the issue, and we will update you shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 17,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_17>",
+        "sender_email_address": "<EMAIL_17>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hi, I'm unable to reset my password. I\u2019ve tried several times but keep getting an error. Regards, <FIRST_NAME_17>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_17>, We've escalated the issue to our development team, and they are looking into it. You'll be notified once it is resolved."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 18,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_18>",
+        "sender_email_address": "<EMAIL_18>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Dear Support, the payment gateway on your site seems to be malfunctioning. It doesn't process my card. Please look into it. Thanks, <FIRST_NAME_18>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_18>, Thanks for reaching out. We've checked your account and reset the settings. Try logging in again and let us know if the issue persists."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 19,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_19>",
+        "sender_email_address": "<EMAIL_19>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hi, I can\u2019t seem to update my address in my account settings. Can you help? Regards, <FIRST_NAME_19>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_19>, Our technical team has identified the problem and is working on a fix. We will update you as soon as it's resolved."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 20,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_20>",
+        "sender_email_address": "<EMAIL_20>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hi, the cart keeps removing items randomly, and I cannot complete my order. Could you please fix this? Regards, <FIRST_NAME_20>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_20>, Thank you for contacting us. We have forwarded your issue to our technical team, and they are working to resolve it. We appreciate your patience."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 21,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_21>",
+        "sender_email_address": "<EMAIL_21>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hello, I'm having trouble accessing your website from my browser. Could you help me resolve this? Regards, <FIRST_NAME_21>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_21>, We're sorry for the inconvenience. Our team is already investigating the issue, and we will update you shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 22,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_22>",
+        "sender_email_address": "<EMAIL_22>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hi, I'm unable to reset my password. I\u2019ve tried several times but keep getting an error. Regards, <FIRST_NAME_22>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_22>, We've escalated the issue to our development team, and they are looking into it. You'll be notified once it is resolved."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 23,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_23>",
+        "sender_email_address": "<EMAIL_23>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Dear Support, the payment gateway on your site seems to be malfunctioning. It doesn't process my card. Please look into it. Thanks, <FIRST_NAME_23>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_23>, Thanks for reaching out. We've checked your account and reset the settings. Try logging in again and let us know if the issue persists."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 24,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_24>",
+        "sender_email_address": "<EMAIL_24>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hi, I can\u2019t seem to update my address in my account settings. Can you help? Regards, <FIRST_NAME_24>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_24>, Our technical team has identified the problem and is working on a fix. We will update you as soon as it's resolved."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 25,
+        "email_subject": "Technical Support Request",
+        "sender_name": "<NAME_25>",
+        "sender_email_address": "<EMAIL_25>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": "technical_issue",
+                "direction": "incoming",
+                "body": "Hi, the cart keeps removing items randomly, and I cannot complete my order. Could you please fix this? Regards, <FIRST_NAME_25>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_25>, Thank you for contacting us. We have forwarded your issue to our technical team, and they are working to resolve it. We appreciate your patience."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 26,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_26>",
+        "sender_email_address": "<EMAIL_26>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I loved the recent sale but had trouble applying the discount code. Regards, <FIRST_NAME_26>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_26>, We value your feedback and will forward it to the relevant team to ensure a better experience next time."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 27,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_27>",
+        "sender_email_address": "<EMAIL_27>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I think the interface on your mobile app is a bit confusing. Just wanted to share my feedback. Regards, <FIRST_NAME_27>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_27>, We appreciate your feedback and are continuously working to enhance our platform. Thank you for sharing your experience."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 28,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_28>",
+        "sender_email_address": "<EMAIL_28>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "I really liked the new product but felt the delivery time could be shorter. Regards, <FIRST_NAME_28>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_28>, Thanks for the feedback. We'll take this into consideration as we make improvements to the website."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 29,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_29>",
+        "sender_email_address": "<EMAIL_29>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I noticed your website is a bit slow when browsing through multiple products. Hope this helps. Regards, <FIRST_NAME_29>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_29>, We've noted your feedback and will work on optimizing the areas you mentioned. Thanks for sharing!"
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 30,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_30>",
+        "sender_email_address": "<EMAIL_30>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I wanted to appreciate the customer service team for helping with my query. Keep up the good work! Regards, <FIRST_NAME_30>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_30>, Thank you for your feedback. We appreciate your input and will work on improving the process in future promotions."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 31,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_31>",
+        "sender_email_address": "<EMAIL_31>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I loved the recent sale but had trouble applying the discount code. Regards, <FIRST_NAME_31>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_31>, We value your feedback and will forward it to the relevant team to ensure a better experience next time."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 32,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_32>",
+        "sender_email_address": "<EMAIL_32>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I think the interface on your mobile app is a bit confusing. Just wanted to share my feedback. Regards, <FIRST_NAME_32>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_32>, We appreciate your feedback and are continuously working to enhance our platform. Thank you for sharing your experience."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 33,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_33>",
+        "sender_email_address": "<EMAIL_33>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "I really liked the new product but felt the delivery time could be shorter. Regards, <FIRST_NAME_33>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_33>, Thanks for the feedback. We'll take this into consideration as we make improvements to the website."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 34,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_34>",
+        "sender_email_address": "<EMAIL_34>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I noticed your website is a bit slow when browsing through multiple products. Hope this helps. Regards, <FIRST_NAME_34>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_34>, We've noted your feedback and will work on optimizing the areas you mentioned. Thanks for sharing!"
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 35,
+        "email_subject": "Feedback Submission",
+        "sender_name": "<NAME_35>",
+        "sender_email_address": "<EMAIL_35>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I wanted to appreciate the customer service team for helping with my query. Keep up the good work! Regards, <FIRST_NAME_35>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_35>, Thank you for your feedback. We appreciate your input and will work on improving the process in future promotions."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 36,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_36>",
+        "sender_email_address": "<EMAIL_36>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, my recently purchased vacuum cleaner stopped working. How can I initiate a warranty claim? Regards, <FIRST_NAME_36>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_36>, We've processed your claim and will send you the replacement product shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 37,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_37>",
+        "sender_email_address": "<EMAIL_37>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I bought a laptop two months ago and now it's not charging properly. Is it covered under warranty? Regards, <FIRST_NAME_37>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_37>, We're sorry about the issue. Your warranty claim is being processed, and we will follow up with shipping details soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 38,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_38>",
+        "sender_email_address": "<EMAIL_38>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I bought a product last year which is now malfunctioning. Can I get a replacement under warranty? Regards, <FIRST_NAME_38>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_38>, Thank you for your patience. We've approved your claim, and you will receive an update once the product ships."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 39,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_39>",
+        "sender_email_address": "<EMAIL_39>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, my coffee maker broke after just a few uses. Can I claim a replacement? Regards, <FIRST_NAME_39>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_39>, Your warranty claim is in progress, and we'll notify you of the next steps shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 40,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_40>",
+        "sender_email_address": "<EMAIL_40>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, my headphones stopped working and I\u2019d like to request a warranty replacement. Please advise on the process. Regards, <FIRST_NAME_40>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_40>, Thank you for providing the details. We've initiated the warranty claim, and you should receive further instructions soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 41,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_41>",
+        "sender_email_address": "<EMAIL_41>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, my recently purchased vacuum cleaner stopped working. How can I initiate a warranty claim? Regards, <FIRST_NAME_41>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_41>, We've processed your claim and will send you the replacement product shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 42,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_42>",
+        "sender_email_address": "<EMAIL_42>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I bought a laptop two months ago and now it's not charging properly. Is it covered under warranty? Regards, <FIRST_NAME_42>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_42>, We're sorry about the issue. Your warranty claim is being processed, and we will follow up with shipping details soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 43,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_43>",
+        "sender_email_address": "<EMAIL_43>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I bought a product last year which is now malfunctioning. Can I get a replacement under warranty? Regards, <FIRST_NAME_43>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_43>, Thank you for your patience. We've approved your claim, and you will receive an update once the product ships."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 44,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_44>",
+        "sender_email_address": "<EMAIL_44>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, my coffee maker broke after just a few uses. Can I claim a replacement? Regards, <FIRST_NAME_44>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_44>, Your warranty claim is in progress, and we'll notify you of the next steps shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 45,
+        "email_subject": "Warranty Claim",
+        "sender_name": "<NAME_45>",
+        "sender_email_address": "<EMAIL_45>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, my headphones stopped working and I\u2019d like to request a warranty replacement. Please advise on the process. Regards, <FIRST_NAME_45>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_45>, Thank you for providing the details. We've initiated the warranty claim, and you should receive further instructions soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 46,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_46>",
+        "sender_email_address": "<EMAIL_46>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to request a refund for my recent purchase. The product is damaged. Regards, <FIRST_NAME_46>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_46>, Your refund request has been approved. Please allow up to 7 business days for the transaction to complete."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 47,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_47>",
+        "sender_email_address": "<EMAIL_47>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I need a refund for the item I purchased. It was not as expected. Regards, <FIRST_NAME_47>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_47>, Thank you for your message. We've initiated the refund, and you'll receive the funds soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 48,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_48>",
+        "sender_email_address": "<EMAIL_48>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, the product I received is defective. Please initiate a refund. Regards, <FIRST_NAME_48>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_48>, We've processed the refund as requested. You should see the refund reflected in your account shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 49,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_49>",
+        "sender_email_address": "<EMAIL_49>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I would like to return the item I bought last week and request a refund. Thanks, <FIRST_NAME_49>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_49>, We've started the refund process, and it should be completed within the next few days."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 50,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_50>",
+        "sender_email_address": "<EMAIL_50>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I wasn\u2019t satisfied with my purchase and would like to request a refund. Regards, <FIRST_NAME_50>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_50>, We've processed your refund, and it will be credited to your account within 5-7 business days."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 51,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_51>",
+        "sender_email_address": "<EMAIL_51>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to request a refund for my recent purchase. The product is damaged. Regards, <FIRST_NAME_51>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_51>, Your refund request has been approved. Please allow up to 7 business days for the transaction to complete."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 52,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_52>",
+        "sender_email_address": "<EMAIL_52>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I need a refund for the item I purchased. It was not as expected. Regards, <FIRST_NAME_52>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_52>, Thank you for your message. We've initiated the refund, and you'll receive the funds soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 53,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_53>",
+        "sender_email_address": "<EMAIL_53>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, the product I received is defective. Please initiate a refund. Regards, <FIRST_NAME_53>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_53>, We've processed the refund as requested. You should see the refund reflected in your account shortly."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 54,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_54>",
+        "sender_email_address": "<EMAIL_54>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I would like to return the item I bought last week and request a refund. Thanks, <FIRST_NAME_54>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_54>, We've started the refund process, and it should be completed within the next few days."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 55,
+        "email_subject": "Refund Request",
+        "sender_name": "<NAME_55>",
+        "sender_email_address": "<EMAIL_55>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "High",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I wasn\u2019t satisfied with my purchase and would like to request a refund. Regards, <FIRST_NAME_55>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_55>, We've processed your refund, and it will be credited to your account within 5-7 business days."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 56,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_56>",
+        "sender_email_address": "<EMAIL_56>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, please deactivate my account as I no longer need it. Regards, <FIRST_NAME_56>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_56>, We have successfully deactivated your account. If you have any further requests, feel free to reach out."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 57,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_57>",
+        "sender_email_address": "<EMAIL_57>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I want to deactivate my account with your services. Please confirm once it's done. Regards, <FIRST_NAME_57>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_57>, Your account is now deactivated. Please contact us if you need any additional assistance in the future."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 58,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_58>",
+        "sender_email_address": "<EMAIL_58>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I would like to close my account permanently. Thank you. Regards, <FIRST_NAME_58>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_58>, We've closed your account as requested. Should you need anything else, don't hesitate to ask."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 59,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_59>",
+        "sender_email_address": "<EMAIL_59>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019ve moved to a different platform, so I\u2019d like to deactivate my account. Regards, <FIRST_NAME_59>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_59>, Your account has been deactivated. We hope to see you again in the future."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 60,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_60>",
+        "sender_email_address": "<EMAIL_60>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I want my account to be deactivated immediately. Regards, <FIRST_NAME_60>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_60>, Your account has been deactivated as requested. If you ever decide to rejoin us, we'll be here to assist."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 61,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_61>",
+        "sender_email_address": "<EMAIL_61>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, please deactivate my account as I no longer need it. Regards, <FIRST_NAME_61>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_61>, We have successfully deactivated your account. If you have any further requests, feel free to reach out."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 62,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_62>",
+        "sender_email_address": "<EMAIL_62>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I want to deactivate my account with your services. Please confirm once it's done. Regards, <FIRST_NAME_62>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_62>, Your account is now deactivated. Please contact us if you need any additional assistance in the future."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 63,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_63>",
+        "sender_email_address": "<EMAIL_63>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I would like to close my account permanently. Thank you. Regards, <FIRST_NAME_63>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_63>, We've closed your account as requested. Should you need anything else, don't hesitate to ask."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 64,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_64>",
+        "sender_email_address": "<EMAIL_64>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019ve moved to a different platform, so I\u2019d like to deactivate my account. Regards, <FIRST_NAME_64>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_64>, Your account has been deactivated. We hope to see you again in the future."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 65,
+        "email_subject": "Account Deactivation",
+        "sender_name": "<NAME_65>",
+        "sender_email_address": "<EMAIL_65>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I want my account to be deactivated immediately. Regards, <FIRST_NAME_65>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_65>, Your account has been deactivated as requested. If you ever decide to rejoin us, we'll be here to assist."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 66,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_66>",
+        "sender_email_address": "<EMAIL_66>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to cancel my monthly subscription. Can you help with this? Regards, <FIRST_NAME_66>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_66>, We've processed your cancellation. You will no longer be charged moving forward."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 67,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_67>",
+        "sender_email_address": "<EMAIL_67>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, please cancel my subscription to your service. I no longer need it. Regards, <FIRST_NAME_67>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_67>, Your subscription has been successfully canceled. If you decide to renew in the future, we'll be happy to assist."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 68,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_68>",
+        "sender_email_address": "<EMAIL_68>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to stop my subscription. Could you confirm once it's done? Regards, <FIRST_NAME_68>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_68>, We've canceled your subscription. Please contact us if there is anything else we can help with."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 69,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_69>",
+        "sender_email_address": "<EMAIL_69>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I\u2019d like to unsubscribe from your service. Thank you. Regards, <FIRST_NAME_69>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_69>, Your subscription has been canceled as requested. If you need any other information, we are here to help."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 70,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_70>",
+        "sender_email_address": "<EMAIL_70>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, can you assist me with canceling my subscription? I no longer wish to continue. Regards, <FIRST_NAME_70>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_70>, Your subscription has been canceled as per your request. Let us know if you need any further assistance."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 71,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_71>",
+        "sender_email_address": "<EMAIL_71>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to cancel my monthly subscription. Can you help with this? Regards, <FIRST_NAME_71>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_71>, We've processed your cancellation. You will no longer be charged moving forward."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 72,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_72>",
+        "sender_email_address": "<EMAIL_72>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, please cancel my subscription to your service. I no longer need it. Regards, <FIRST_NAME_72>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_72>, Your subscription has been successfully canceled. If you decide to renew in the future, we'll be happy to assist."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 73,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_73>",
+        "sender_email_address": "<EMAIL_73>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to stop my subscription. Could you confirm once it's done? Regards, <FIRST_NAME_73>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_73>, We've canceled your subscription. Please contact us if there is anything else we can help with."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 74,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_74>",
+        "sender_email_address": "<EMAIL_74>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I\u2019d like to unsubscribe from your service. Thank you. Regards, <FIRST_NAME_74>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_74>, Your subscription has been canceled as requested. If you need any other information, we are here to help."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 75,
+        "email_subject": "Subscription Cancellation",
+        "sender_name": "<NAME_75>",
+        "sender_email_address": "<EMAIL_75>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, can you assist me with canceling my subscription? I no longer wish to continue. Regards, <FIRST_NAME_75>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_75>, Your subscription has been canceled as per your request. Let us know if you need any further assistance."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 76,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_76>",
+        "sender_email_address": "<EMAIL_76>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, can I change the shipping address for my order? Order ID: <ORDER_ID_76>. Regards, <FIRST_NAME_76>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_76>, Your order modification has been successfully processed. Check your account for the updated order details."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 77,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_77>",
+        "sender_email_address": "<EMAIL_77>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to change the size of one of the items in my order. Can you help with this? Order ID: <ORDER_ID_77>. Regards, <FIRST_NAME_77>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_77>, We've made the changes to your order. You'll receive an updated confirmation email soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 78,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_78>",
+        "sender_email_address": "<EMAIL_78>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, could you please modify my order and change the color of the product? Order ID: <ORDER_ID_78>. Regards, <FIRST_NAME_78>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_78>, We have updated your order according to your request. You'll find the changes reflected in your account."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 79,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_79>",
+        "sender_email_address": "<EMAIL_79>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I want to change the delivery date of my order. Can you assist with this? Order ID: <ORDER_ID_79>. Regards, <FIRST_NAME_79>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_79>, Your order has been modified as requested. You can view the updated details in your order history."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 80,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_80>",
+        "sender_email_address": "<EMAIL_80>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, is it possible to modify my order to add an additional item? Order ID: <ORDER_ID_80>. Regards, <FIRST_NAME_80>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_80>, We've modified your order as requested. The updated details are available in your account."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 81,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_81>",
+        "sender_email_address": "<EMAIL_81>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, can I change the shipping address for my order? Order ID: <ORDER_ID_81>. Regards, <FIRST_NAME_81>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_81>, Your order modification has been successfully processed. Check your account for the updated order details."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 82,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_82>",
+        "sender_email_address": "<EMAIL_82>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to change the size of one of the items in my order. Can you help with this? Order ID: <ORDER_ID_82>. Regards, <FIRST_NAME_82>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_82>, We've made the changes to your order. You'll receive an updated confirmation email soon."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 83,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_83>",
+        "sender_email_address": "<EMAIL_83>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, could you please modify my order and change the color of the product? Order ID: <ORDER_ID_83>. Regards, <FIRST_NAME_83>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_83>, We have updated your order according to your request. You'll find the changes reflected in your account."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 84,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_84>",
+        "sender_email_address": "<EMAIL_84>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I want to change the delivery date of my order. Can you assist with this? Order ID: <ORDER_ID_84>. Regards, <FIRST_NAME_84>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_84>, Your order has been modified as requested. You can view the updated details in your order history."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 85,
+        "email_subject": "Order Modification Request",
+        "sender_name": "<NAME_85>",
+        "sender_email_address": "<EMAIL_85>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, is it possible to modify my order to add an additional item? Order ID: <ORDER_ID_85>. Regards, <FIRST_NAME_85>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_85>, We've modified your order as requested. The updated details are available in your account."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 86,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_86>",
+        "sender_email_address": "<EMAIL_86>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, can you provide the tracking number for my recent purchase? Order ID: <ORDER_ID_86>. Regards, <FIRST_NAME_86>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_86>, We've sent your tracking information to your email. You can use it to track your shipment."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 87,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_87>",
+        "sender_email_address": "<EMAIL_87>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to know the current status of my order. Please send me the tracking details. Regards, <FIRST_NAME_87>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_87>, Your order is on its way! Here is the tracking number: <TRACKING_INFO>."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 88,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_88>",
+        "sender_email_address": "<EMAIL_88>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, could you send me the tracking information for my order? Thanks, <FIRST_NAME_88>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_88>, Your tracking number is <TRACKING_INFO>. You can track your package using the provided link."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 89,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_89>",
+        "sender_email_address": "<EMAIL_89>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I\u2019ve been waiting for my order. Can you provide me with the tracking number? Regards, <FIRST_NAME_89>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_89>, Here is your tracking information: <TRACKING_INFO>. Thank you for your order!"
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 90,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_90>",
+        "sender_email_address": "<EMAIL_90>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, could you update me on the delivery status of my order? I haven't received tracking info yet. Regards, <FIRST_NAME_90>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_90>, Here are your tracking details: <TRACKING_INFO>. Thank you for your purchase."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 91,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_91>",
+        "sender_email_address": "<EMAIL_91>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, can you provide the tracking number for my recent purchase? Order ID: <ORDER_ID_91>. Regards, <FIRST_NAME_91>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_91>, We've sent your tracking information to your email. You can use it to track your shipment."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 92,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_92>",
+        "sender_email_address": "<EMAIL_92>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to know the current status of my order. Please send me the tracking details. Regards, <FIRST_NAME_92>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_92>, Your order is on its way! Here is the tracking number: <TRACKING_INFO>."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 93,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_93>",
+        "sender_email_address": "<EMAIL_93>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, could you send me the tracking information for my order? Thanks, <FIRST_NAME_93>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_93>, Your tracking number is <TRACKING_INFO>. You can track your package using the provided link."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 94,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_94>",
+        "sender_email_address": "<EMAIL_94>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I\u2019ve been waiting for my order. Can you provide me with the tracking number? Regards, <FIRST_NAME_94>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_94>, Here is your tracking information: <TRACKING_INFO>. Thank you for your order!"
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 95,
+        "email_subject": "Tracking Request",
+        "sender_name": "<NAME_95>",
+        "sender_email_address": "<EMAIL_95>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, could you update me on the delivery status of my order? I haven't received tracking info yet. Regards, <FIRST_NAME_95>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_95>, Here are your tracking details: <TRACKING_INFO>. Thank you for your purchase."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 96,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_96>",
+        "sender_email_address": "<EMAIL_96>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to leave a review for the product I purchased. Where can I do that? Regards, <FIRST_NAME_96>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_96>, We're glad to hear you'd like to leave a review. You can do so on the product's page."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 97,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_97>",
+        "sender_email_address": "<EMAIL_97>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, how do I submit a review for the item I bought? Thanks, <FIRST_NAME_97>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_97>, Thank you for your interest in providing a review. Please visit the product page to share your thoughts."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 98,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_98>",
+        "sender_email_address": "<EMAIL_98>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I want to share my experience with the product I received. How do I post a review? Regards, <FIRST_NAME_98>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_98>, Your feedback is important to us. You can submit your review on the product page."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 99,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_99>",
+        "sender_email_address": "<EMAIL_99>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, can you guide me on where to post a review for my recent purchase? Regards, <FIRST_NAME_99>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_99>, Thank you for offering to leave a review. You can post your feedback on the product page."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 100,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_100>",
+        "sender_email_address": "<EMAIL_100>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I\u2019d like to review the product I bought. Where can I leave feedback? Regards, <FIRST_NAME_100>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_100>, You can leave your review on the product page. We appreciate your feedback!"
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 101,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_101>",
+        "sender_email_address": "<EMAIL_101>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, I\u2019d like to leave a review for the product I purchased. Where can I do that? Regards, <FIRST_NAME_101>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hello <FIRST_NAME_101>, We're glad to hear you'd like to leave a review. You can do so on the product's page."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 102,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_102>",
+        "sender_email_address": "<EMAIL_102>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, how do I submit a review for the item I bought? Thanks, <FIRST_NAME_102>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_102>, Thank you for your interest in providing a review. Please visit the product page to share your thoughts."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 103,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_103>",
+        "sender_email_address": "<EMAIL_103>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Dear Support, I want to share my experience with the product I received. How do I post a review? Regards, <FIRST_NAME_103>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_103>, Your feedback is important to us. You can submit your review on the product page."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 104,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_104>",
+        "sender_email_address": "<EMAIL_104>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hi, can you guide me on where to post a review for my recent purchase? Regards, <FIRST_NAME_104>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Hi <FIRST_NAME_104>, Thank you for offering to leave a review. You can post your feedback on the product page."
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "id": 105,
+        "email_subject": "Product Review Request",
+        "sender_name": "<NAME_105>",
+        "sender_email_address": "<EMAIL_105>",
+        "recipient_name": "Customer Support",
+        "recipient_email": "support@ecommerce.com",
+        "billing_category": null,
+        "priority": "Normal",
+        "conversation": [
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "incoming",
+                "body": "Hello, I\u2019d like to review the product I bought. Where can I leave feedback? Regards, <FIRST_NAME_105>"
+            },
+            {
+                "preferred_reaction": null,
+                "category": null,
+                "direction": "outgoing",
+                "body": "Dear <FIRST_NAME_105>, You can leave your review on the product page. We appreciate your feedback!"
+            }
+        ],
+        "language": "en"
+    }
+]
