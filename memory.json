@@ -1,0 +1,10 @@
+[
+    {
+        "query": "\nFirst Name: Kened\nLast Name: \nE-Mail: \nMessage: My poles wich i bought last week broke after only one usage. Does the warranty policy apply?\n",
+        "response": "Dear Kened, \nWe apologize for the inconvenience caused by the breaking of your poles. We would be happy to help you with your warranty claim. Please provide us with your order number and the details of the issue you experienced, and we will look into it promptly. Our standard warranty policy covers the product for a period of one year from the date of purchase. We will be in touch with you soon to assist you further. If you have any further questions, our customer support team will be more than happy to help you via email at support@peakcommerce.ch. \nBest regards, \nYour PeakCommerce Team"
+    },
+    {
+        "query": "\nFirst Name: Kened\nLast Name: \nE-Mail: \nMessage: I want a refund. Can you help me with that?\n",
+        "response": "Dear Kened,\nWe apologize for the inconvenience caused by the breaking of your poles. As we previously discussed, we are happy to assist you with your refund. To proceed with the refund, could you please confirm your order number and the reason for the return? This information will help us process your request promptly. Our customer support team will be in touch with you soon to assist you further. If you have any further questions, our customer support team will be more than happy to help you via email at support@peakcommerce.ch. \nBest regards, \nYour PeakCommerce Team"
+    }
+]
