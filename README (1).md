@@ -37,8 +37,8 @@ The back-end processes their queries, retrieves relevant knowledge from previous
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/kennedkqiraj/email_automation.git
+cd email_automation
 ```
 
 ### 2) Create and activate a virtual environment
